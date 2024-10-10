@@ -18,3 +18,5 @@ function calculate(operation, num1, num2) {
 }
 
 ```
+
+![thor](tor.jpg "Marvel")
